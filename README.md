@@ -5,7 +5,7 @@ Use it at your own risk. I am not responsible for anything that happens to your 
 
 <p align="left">
 
-  <img width="600" height="500" src="images/image.png">
+  <img width="500" height="400" src="images/image.png">
 
 </p>
 
