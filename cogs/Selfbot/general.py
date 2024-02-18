@@ -153,16 +153,6 @@ class General(commands.Cog):
 
         await ctx.send(f" ## Statistics for **{self.client.user}**{x}```css{x}{content}{x}```", delete_after=delete_messages())
 
-    
-
-
-
-    
-
-
-
-
-
 
 async def setup(client: commands.Bot):
     await client.add_cog(General(client))
