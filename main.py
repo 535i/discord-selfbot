@@ -38,7 +38,7 @@ import requests
 
 client = Bot(command_prefix=prefix, self_bot=True, chunk_guilds_at_startup=False)
 client.runtime = int(time.time())
-client.version = "0.0.1"
+client.version = "0.1.0"
 
 def main_menu():
     title = ("""[cyan]
