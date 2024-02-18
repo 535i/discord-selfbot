@@ -2,7 +2,7 @@
 SelfBots are against Discord's Terms of Service and you can get your account banned, if you get caught using this selfbot, or any selfbot in general.
 Use it at your own risk. I am not responsible for anything that happens to your account while/after using this program.
 
-<p align="center">
+<p align="left">
 
   <img width="400" height="300" src="images/image.png">
 
