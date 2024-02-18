@@ -18,7 +18,6 @@ Name | Meaning
 `prefix` | Put in a prefix of your choice
 `ownerid` | Your User ID
 `del_messages` | When should messages be deleted. If not leave it as `None`
-`token` | Your Bot token
 
 ## Features
 * Basic commands
