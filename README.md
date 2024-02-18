@@ -3,9 +3,7 @@ SelfBots are against Discord's Terms of Service and you can get your account ban
 Use it at your own risk. I am not responsible for anything that happens to your account while/after using this program.
 
 
-.. image:: https://img.shields.io/pypi/pyversions/discord.py.svg
-   :target: https://pypi.python.org/pypi/discord.py-self
-   :alt: PyPI supported Python versions
+[![PyPI supporeted versions](https://img.shields.io/pypi/pyversions/discord.py.svg)](https://pypi.python.org/pypi/discord.py-self)
 
 <p align="left">
 
