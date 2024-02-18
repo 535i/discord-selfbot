@@ -4,7 +4,7 @@ Use it at your own risk. I am not responsible for anything that happens to your 
 
 <p align="center">
 
-  <img width="400" height="300" src="https://github.com/535i/discord-selfbot/images/image.png">
+  <img width="400" height="300" src="images/image.png">
 
 </p>
 
