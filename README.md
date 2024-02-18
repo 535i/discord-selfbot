@@ -5,7 +5,7 @@ Use it at your own risk. I am not responsible for anything that happens to your 
 
 [![PyPI supporeted versions](https://img.shields.io/pypi/pyversions/discord.py.svg)](https://pypi.python.org/pypi/discord.py-self)
 
-![](https://github.com/535i/discord-selfbot/blob/master/images/image.png?raw=true)
+![image](https://github.com/535i/discord-selfbot/blob/master/images/image.png?raw=true)
 
 ## Installation
 1. Clone the repository: `git clone https://github.com/535i/discord-selfbot.git` or download the `.zip`
